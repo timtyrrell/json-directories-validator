@@ -11,8 +11,7 @@ $ npm install [-g] json-directories-validator
 ## CLI Usage
 
 ```bash
-$ json-directories-validator
-  - missing help
+$ json-directories-validator (dir)
 ```
 
 ## Author
