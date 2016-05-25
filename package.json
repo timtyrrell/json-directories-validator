@@ -1,0 +1,19 @@
+{
+  "name": "json-directories-validator",
+  "version": "1.0.0",
+  "description": "Recurse through base directory to see if all json files beneath are valid",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "json-directories-validator": "./bin/cmd.js"
+  },
+  "author": "Tim Tyrrell <tim@tyrrell.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timtyrrell/json-directories-validator"
+  },
+  "hompage": "https://github.com/timtyrrell/json-directories-validator",
+  "bugs": {
+    "url": "https://github.com/timtyrrell/json-directories-validator/issues"
+  }
+}

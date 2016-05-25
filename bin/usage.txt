@@ -1,0 +1,3 @@
+json-directories-validator
+
+  usage: json-directories-validator
