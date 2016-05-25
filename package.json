@@ -1,6 +1,6 @@
 {
   "name": "json-directories-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Recurse through base directory to see if all json files beneath are valid",
   "main": "index.js",
   "license": "MIT",
